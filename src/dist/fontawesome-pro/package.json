@@ -1,0 +1,85 @@
+{
+  "_from": "@fortawesome/fontawesome-pro",
+  "_id": "@fortawesome/fontawesome-pro@5.15.2",
+  "_inBundle": false,
+  "_integrity": "sha512-Eohj5nc09eqyAtPXDrnlxiLNLr9L9vo2bUiHJ4uSc/qzt5yfoW3XQt+l2PeevX7dn3gtqNkQA8Et1MhymlsKsA==",
+  "_location": "/@fortawesome/fontawesome-pro",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@fortawesome/fontawesome-pro",
+    "name": "@fortawesome/fontawesome-pro",
+    "escapedName": "@fortawesome%2ffontawesome-pro",
+    "scope": "@fortawesome",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://npm.fontawesome.com/@fortawesome/fontawesome-pro/-/5.15.2/fontawesome-pro-5.15.2.tgz",
+  "_shasum": "188d7d199f381c9fcf7b2fc0fd7d9e148e80b27a",
+  "_spec": "@fortawesome/fontawesome-pro",
+  "_where": "/Users/ricardo.arcifa/Desktop/unigamer/unigamer-news-master",
+  "author": {
+    "name": "Dave Gandy",
+    "email": "dave@fontawesome.com",
+    "url": "http://twitter.com/davegandy"
+  },
+  "bugs": {
+    "url": "http://github.com/FortAwesome/Font-Awesome/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Brian Talbot",
+      "url": "http://twitter.com/talbs"
+    },
+    {
+      "name": "Travis Chase",
+      "url": "http://twitter.com/supercodepoet"
+    },
+    {
+      "name": "Rob Madole",
+      "url": "http://twitter.com/robmadole"
+    },
+    {
+      "name": "Geremia Taglialatela",
+      "url": "http://twitter.com/gtagliala"
+    },
+    {
+      "name": "Mike Wilkerson",
+      "url": "http://twitter.com/mw77"
+    }
+  ],
+  "dependencies": {},
+  "deprecated": false,
+  "description": "The iconic font, CSS, and SVG framework",
+  "engines": {
+    "node": ">=6"
+  },
+  "homepage": "https://fontawesome.com",
+  "keywords": [
+    "font",
+    "awesome",
+    "fontawesome",
+    "icon",
+    "svg",
+    "bootstrap"
+  ],
+  "license": "UNLICENSED",
+  "main": "js/fontawesome.js",
+  "name": "@fortawesome/fontawesome-pro",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FortAwesome/Font-Awesome.git"
+  },
+  "scripts": {
+    "postinstall": "node attribution.js"
+  },
+  "style": "css/fontawesome.css",
+  "version": "5.15.2"
+}
